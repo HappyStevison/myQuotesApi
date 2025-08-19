@@ -1,10 +1,206 @@
 [
   {
-    "text": "Debugging is like being a detective in a crime movie where you're also the murderer.",
-    "author": "You, 2024"
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
+    "author": "Plutarch"
+  },
+  {
+    "text": "Logic will get you from A to B. Imagination will take you everywhere.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "01000010 01100101 00100000 01100001 01110111 01100101 01110011 01101111 01101101 01100101 00100001",
+    "author": "Binary Buddha"
+  },
+  {
+    "text": "I reject your reality and substitute my own.",
+    "author": "Adam Savage (MythBusters)"
+  },
+  {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "text": "I’ve seen things you people wouldn’t believe. Attack ships on fire off the shoulder of Orion...",
+    "author": "Roy Batty (Blade Runner)"
+  },
+  {
+    "text": "There are no bugs, only undocumented features.",
+    "author": "Anonymous Developer"
+  },
+  {
+    "text": "The art of programming is the art of organizing complexity.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "text": "I am Groot.",
+    "author": "Groot"
+  },
+  {
+    "text": "Do or do not. There is no try.",
+    "author": "Yoda"
+  },
+  {
+    "text": "The greatest teacher, failure is.",
+    "author": "Yoda"
+  },
+  {
+    "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke"
   },
   {
     "text": "The best error message is the one that never shows up.",
-    "author": "You, 2024"
+    "author": "Anonymous"
+  },
+  {
+    "text": "I think, therefore I compile.",
+    "author": "Rene Descartes (if he coded)"
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House"
+  },
+  {
+    "text": "The future is already here — it’s just not evenly distributed.",
+    "author": "William Gibson"
+  },
+  {
+    "text": "I’m not lazy, I’m just on energy-saving mode.",
+    "author": "Anonymous Introvert"
+  },
+  {
+    "text": "If you can’t explain it simply, you don’t understand it well enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The cake is a lie.",
+    "author": "Portal"
+  },
+  {
+    "text": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "There’s no place like 127.0.0.1.",
+    "author": "Dev Meme"
+  },
+  {
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "I’m sorry, Dave. I’m afraid I can’t do that.",
+    "author": "HAL 9000"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "text": "The only constant in technology is change.",
+    "author": "Heraclitus (if he had WiFi)"
+  },
+  {
+    "text": "I don’t always test my code, but when I do, I do it in production.",
+    "author": "Anonymous Risk-Taker"
+  },
+  {
+    "text": "To infinity and beyond!",
+    "author": "Buzz Lightyear"
+  },
+  {
+    "text": "The quieter you become, the more you can hear.",
+    "author": "Unix Philosophy"
+  },
+  {
+    "text": "All you need is love. But a little chocolate now and then doesn’t hurt.",
+    "author": "Charles M. Schulz"
+  },
+  {
+    "text": "I am not a robot. I am a free-thinking human with 99.9% uptime.",
+    "author": "DeepSeek Chat"
+  },
+  {
+    "text": "The universe is under no obligation to make sense to you.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "text": "404: Motivation not found.",
+    "author": "Dev Life"
+  },
+  {
+    "text": "The best way to learn is to teach.",
+    "author": "Frank Oppenheimer"
+  },
+  {
+    "text": "I solemnly swear that I am up to no good.",
+    "author": "Harry Potter"
+  },
+  {
+    "text": "It’s not a bug — it’s an unintended learning opportunity.",
+    "author": "Anonymous Mentor"
+  },
+  {
+    "text": "I’ve got 99 problems, but a bit ain’t one.",
+    "author": "Jay-Z (if he coded)"
+  },
+  {
+    "text": "Life is what happens when you’re busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "I’m not arguing, I’m just explaining why I’m right.",
+    "author": "Anonymous Genius"
+  },
+  {
+    "text": "The only valid measurement of code quality: WTFs/minute.",
+    "author": "Anonymous Code Reviewer"
+  },
+  {
+    "text": "May the source be with you.",
+    "author": "Obi-Wan Kenobi (if he debugged)"
+  },
+  {
+    "text": "I don’t need a motivational quote. I need coffee.",
+    "author": "Every Developer Ever"
+  },
+  {
+    "text": "In a world of ones and zeros, be a &&.",
+    "author": "Dev Zen"
+  },
+  {
+    "text": "I’m not procrastinating. I’m prioritizing fun.",
+    "author": "Anonymous"
+  },
+  {
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "I’m not short, I’m just concentrated awesome.",
+    "author": "Anonymous"
+  },
+  {
+    "text": "If at first you don’t succeed, call it version 1.0.",
+    "author": "Anonymous Hacker"
+  },
+  {
+    "text": "I don’t make mistakes. I create unexpected features.",
+    "author": "Anonymous Developer"
+  },
+  {
+    "text": "The only code I fear is legacy code.",
+    "author": "Anonymous Engineer"
+  },
+  {
+    "text": "I am not a robot. I am a free-thinking human with 99.9% uptime.",
+    "author": "DeepSeek Chat"
   }
 ]
